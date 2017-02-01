@@ -1,0 +1,24 @@
+#wrapper{
+	
+}
+
+.clear{
+	clear: both;
+}
+
+#unos{
+	width: 100%;
+}
+
+#unos_robe{
+	display: none;
+}
+
+#drzac_dugmeta{
+	text-align: center;
+}
+
+#dugme_generisi{
+	font-size: 20pt;
+
+}

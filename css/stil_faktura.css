@@ -1,0 +1,99 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: Calibri, 'sans-serif';
+}
+
+.clear{
+	clear: both;
+}
+
+#print_area{
+	width: 900px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+#gornji_deo{
+	width: 100%;
+	font-size:16pt;
+}
+
+#leva_kolona{
+	float:left;
+	margin-right: 100px;
+}
+
+#desna_kolona{
+	float:left;
+}
+
+.center{
+	text-align: center;
+}
+
+#donji_deo{
+
+}
+
+#title{
+
+}
+
+.subtitle{
+	font-size:14pt;
+}
+
+#tabela{
+	width: 100%;
+	border-collapse: collapse;
+	border-bottom:2px solid black;
+}
+
+#tabela thead th{
+	border-top:2px solid black;
+	border-bottom: 2px solid black;
+
+}
+
+#tabela tbody td{
+	padding:5px;
+	text-align: center;
+}
+
+#tabela tbody tr:nth-child(odd){
+	background-color: #e8e8e8;
+}
+
+#tabela tbody tr:nth-child(even){
+	background-color: #fff;
+}
+
+#ispod_tabele{
+	font-size:16pt;
+}
+
+#pdv_tabela{
+	border-collapse: collapse;
+}
+
+#pdv_tabela td{
+	border: 1px solid black;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#potpis{
+	float:right;
+}
